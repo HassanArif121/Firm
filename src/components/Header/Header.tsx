@@ -23,7 +23,7 @@ export default function Header() {
             <Link href="/">
               <div className="flex items-center space-x-2 cursor-pointer">
                 <Scale size={46} className="text-green-700" />
-                <p className="font-bold text-3xl text-black">JusticeLaw</p>
+                <p className="font-bold text-3xl text-black">Friends Law</p>
               </div>
             </Link>
           </div>
