@@ -11,7 +11,7 @@ const blogPosts = [
       tags: ["Legal Advice", "Criminal Defense"],
       content: "Full content of the blog post...",
       fullContent: `
-        Facing criminal charges can be overwhelming, but understanding your rights is crucial in protecting yourself.
+Facing criminal charges can be overwhelming, but understanding your rights is crucial in protecting yourself.
         The legal system provides several rights to individuals accused of crimes, including the right to remain silent, 
         the right to an attorney, and the right to a fair trial. Exercising these rights appropriately can significantly 
         impact the outcome of your case.
